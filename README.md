@@ -353,3 +353,4 @@ grupo8-dashboard/
             ├── DimensionCard.jsx         ← tarjeta por dimensión (×6)
             └── ServiceStatusBar.jsx      ← estado de los 6 microservicios
 ```
+> Nota: el puerto 3007 está definido en backend/.env y no debe cambiarse.
