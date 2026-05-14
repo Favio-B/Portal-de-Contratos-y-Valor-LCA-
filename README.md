@@ -1,10 +1,19 @@
+
+
 # EMS — Dashboard de Valor (Grupo 8)
 
 Dashboard de rentabilidad del sistema **Engineering Management Suite**.  
 Consume los 6 microservicios del EMS, calcula un índice de rentabilidad ponderado y emite un veredicto: **RENTABLE / EN RIESGO / NO RENTABLE**.
 
 ---
+## Equipo de desarrollo
+- Favio Alejandro Bernal Gonzalez — Lider tecnico / Backend
+- Luisa Maria Lopez Rugeles — Lider de calidad / Documentacion
+- Carlos Andres Lamus Gomez — Backend / Integracion
+- Juan Esteban Roncancio Cardenas — Frontend
+- Kevin Santiago Cachaya Collazos — Frontend / Build
 
+---
 ## Índice
 
 1. [Descripción del módulo](#1-descripción-del-módulo)
