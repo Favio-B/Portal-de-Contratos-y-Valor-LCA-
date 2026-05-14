@@ -1,3 +1,4 @@
+// Autor: Favio Bernal — validacion de projectId y orquestacion del dashboard
 /**
  * dashboard.controller.js — Controlador del endpoint de dashboard
  *
