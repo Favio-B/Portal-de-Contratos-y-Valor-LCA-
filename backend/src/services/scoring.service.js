@@ -1,3 +1,4 @@
+// Autor: Favio Bernal — algoritmo de scoring multidimensional v1.0
 /**
  * scoring.service.js — Algoritmo de rentabilidad del Dashboard (Grupo 8)
  *
