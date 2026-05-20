@@ -1,4 +1,7 @@
-/**
+// Autor: Carlos Lamus — servidor de mocks para desarrollo sin dependencias externas
+// Simula los 6 microservicios del ecosistema EMS en puertos 3001-3006
+
+/** 
  * mock-services.js — Servidor mock que simula los 6 microservicios del EMS
  *
  * Uso: node mock-services.js
