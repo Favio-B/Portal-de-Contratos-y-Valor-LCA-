@@ -1,3 +1,5 @@
+//Autor: Carlos Andrés Lamus Gómez — agregacion paralela con Promise.allSettled y timeout 5s
+
 /**
  * aggregator.service.js — Capa de integración con los microservicios externos
  *
