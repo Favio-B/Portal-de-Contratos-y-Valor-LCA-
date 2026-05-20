@@ -1,3 +1,4 @@
+// Autor: Juan Roncancio — banner de veredicto con semaforo verde/ambar/rojo
 /**
  * VerdictBanner.jsx — Banner principal de veredicto de rentabilidad
  *
