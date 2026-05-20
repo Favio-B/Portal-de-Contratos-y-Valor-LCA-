@@ -1,3 +1,4 @@
+// Autor: Juan Roncancio — pagina principal, estado global y orquestacion de componentes
 /**
  * Dashboard.jsx — Pagina principal del modulo Grupo 8 (Dashboard de Valor)
  *
