@@ -15,7 +15,7 @@
  * Props:
  *   score {number} — valor 0-100
  */
-
+// Autor: Kevin Cachaya — indicador numerico 0-100 con barra de progreso animada
 function scoreColor(s) {
   if (s >= 70) return '#16a34a';
   if (s >= 40) return '#f59e0b';
@@ -91,8 +91,8 @@ export default function ScoreGauge({ score }) {
         <text x="100" y="115" textAnchor="middle" fontSize="12" fill="#9ca3af">
           / 100
         </text>
-        <text x="18"  y="115" textAnchor="middle" fontSize="9"  fill="#9ca3af">0</text>
-        <text x="182" y="115" textAnchor="middle" fontSize="9"  fill="#9ca3af">100</text>
+        <text x="18" y="115" textAnchor="middle" fontSize="9" fill="#9ca3af">0</text>
+        <text x="182" y="115" textAnchor="middle" fontSize="9" fill="#9ca3af">100</text>
 
         {/* Estado — debajo del diametro */}
         <text
